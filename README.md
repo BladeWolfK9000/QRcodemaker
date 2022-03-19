@@ -1,5 +1,8 @@
 # QRcodemaker
-This will have 3 textboxes the
+
+This is my first ever project.
+
+Quick little explaination if slightly confused how to use it
 
 QRcode Save Directory:
 (path must already exist)
