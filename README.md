@@ -9,7 +9,7 @@ QRcode Save Directory:
 file location of whatever you are creating.
 
 QRcode Content:
-As name implies whatever yourning into a QRcode.
+As name implies whatever your turning into a QRcode.
 
 QRcode File Name:
 what filename your saving the QRcode as.
